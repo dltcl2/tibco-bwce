@@ -8,6 +8,9 @@
   * 동빈나 - 도커활용및 배포 자동화 실전 초급
      - https://www.youtube.com/playlist?list=PLRx0vPvlEmdChjc6N3JnLaX-Gihh5pHcx
   
+  * AWS와 Docker Swarm을 이용한 쉽고 빠른 컨테이너 오케스트레이션 - 김충섭 개발자(퍼플웍스)
+     - https://www.youtube.com/watch?v=16LNWMqphOA&list=PLbVHwRm47RH477Y3oeNB4IdkARwWl18Az
+  
   * [토크ON세미나] 쿠버네티스 살펴보기 1강 - 컨테이너 오케스트레이션 | T아카데미
      - https://github.com/subicura/workshop-k8s-basic
      - https://www.youtube.com/playlist?list=PL9mhQYIlKEhdTu31zyb_QelQMaqFGgASA
